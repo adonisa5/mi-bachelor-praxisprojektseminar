@@ -9,7 +9,7 @@ thema: Wie beeinflussen kulturelle Werte das Datenerhebungsverfahren? Eine vergl
 kooperationspartner: Th Köln
 teaserimage: gashi-adonisa-teaserimage.jpg
 stichworte: Datenerhebung, DSGVO/PIPA, Corona-Tracking-Systeme, Datenakzeptanz, Gesellschaft
-Bildrechte: Teaserbild erstellt mit Canva
+Bildrechte: Adonisa Gashi, Teaserbild erstellt mit Canva
 ---
 
 ## Abstract
